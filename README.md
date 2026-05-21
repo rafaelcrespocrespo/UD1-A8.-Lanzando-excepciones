@@ -17,3 +17,15 @@ Cuando se produce (o se lanza) una excepción, Python genera un objeto de excepc
 5. Adjunta pantallazos de las ejecuciones realizadas.
 
 [ejercicio1](division.py)
+
+![1](1.png)
+
+![2](2.png)
+
+# Secuencia de 3 divisiones con un error en la segunda división
+print("Inicio del segundo bloque.")
+print(44/55, end=", ")
+print(55/0, end=", ") # ZeroDivisionError: division by zero
+print(66/77)
+print("Fin del segundo bloque.")
+print("Fin del programa.")
