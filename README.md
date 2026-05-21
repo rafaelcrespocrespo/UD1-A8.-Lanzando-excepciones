@@ -23,3 +23,5 @@ Cuando se produce (o se lanza) una excepción, Python genera un objeto de excepc
 ![2](2.png)
 
 [ejercicio2](division2.py)
+
+![1](1.2.png)
