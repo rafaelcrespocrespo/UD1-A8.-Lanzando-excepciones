@@ -22,10 +22,4 @@ Cuando se produce (o se lanza) una excepción, Python genera un objeto de excepc
 
 ![2](2.png)
 
-# Secuencia de 3 divisiones con un error en la segunda división
-print("Inicio del segundo bloque.")
-print(44/55, end=", ")
-print(55/0, end=", ") # ZeroDivisionError: division by zero
-print(66/77)
-print("Fin del segundo bloque.")
-print("Fin del programa.")
+[ejercicio2](division2.py)
