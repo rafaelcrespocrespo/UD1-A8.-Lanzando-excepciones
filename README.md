@@ -15,3 +15,5 @@ Cuando se produce (o se lanza) una excepción, Python genera un objeto de excepc
 3. Lee detenidamente los comentarios incluidos en el código.
 4. Responde a las preguntas planteadas.
 5. Adjunta pantallazos de las ejecuciones realizadas.
+
+[ejercicio1](division.py)
